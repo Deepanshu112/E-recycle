@@ -8,7 +8,7 @@ import postergif from '../assets/Postergif.gif';
 import posterlight from "../assets/Posterlightgif.gif";
 import bgdark from "../assets/homebg.png";
 import bg from "../assets/homebglight.png";
-import map from "../assets/MAP.gif" ;
+import map from "../assets/MAP.jpg" ;
 import { useNavigate } from "react-router-dom";
 
 const Poster = () => {
